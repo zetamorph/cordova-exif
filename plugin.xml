@@ -10,7 +10,7 @@
 	<repo>https://github.com/guilhermefarias/cordova-exif.git</repo>
 
 	<dependency id="cordova-plugin-camera" version="^4.0.0"/>
-	<dependency id="cordova-plugin-file" version="^4.0.0"/>
+	<dependency id="cordova-plugin-file" version="^6.0.0"/>
 
 	<js-module src="index.js" name="CordovaExif">
 		<clobbers target="window.CordovaExif"/>
